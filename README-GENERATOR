@@ -1,8 +1,8 @@
 
 # <Your-Project-Title>
-README_Generator
+ReadMe_Generator
 # Description
-This will allow a user to create a README in a fast and simple manner
+When prompted, a user will be asked a series of questions, which will generate a professional README.MD
 # Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -11,15 +11,15 @@ This will allow a user to create a README in a fast and simple manner
 * [Tests](#tests)
 * [Questions](#questions)
 # Installation
-Dependencies must be installed to run the application properly: must use Inquire package (npm i)
+Command(s) needed to run to install dependencies: must use Inquire package (npm i)
 # Usage
-​This application is used for This app will be used as a ReadMe generator that can quickly create a professional ReadMe for a project.
+​How this application is used: This app is used as a ReadMe generator that can quickly create a professional README for a project.
 # License
 This project is license under the  license.
 # Contributing
-​Contributors: Alexandra Bright
+​Contributors: Me (Alexandra Bright).
 # Tests
-To run tests, you need to run the following command: NONE
+To run tests, you need to run the following command: npm i
 # Questions
-If you have any questions about the repo, pleas open an issue.
+If you have any questions about the repo, please contact me.
 Or contact abright93 using this Email: abrighttt@gmail.com.

@@ -58,9 +58,9 @@ ${data.Description}
 * [Tests](#tests)
 * [Questions](#questions)
 # Installation
-Dependencies must be installed to run the application properly: ${data.Installation}
+Command(s) needed to run to install dependencies: ${data.Installation}
 # Usage
-​This application is used for ${data.Usage}
+​How this application is used: ${data.Usage}
 # License
 This project is license under the ${data.License} license.
 # Contributing
@@ -68,8 +68,8 @@ This project is license under the ${data.License} license.
 # Tests
 To run tests, you need to run the following command: ${data.Test}
 # Questions
-If you have any questions about the repo, pleas open an issue.
-Or contact ${data.UserName} using this Email: ${data.Email}.`;
+If you have any questions about the repo, please contact me.
+${data.UserName} using this Email: ${data.Email}.`;
 }
 
 module.exports = generateMarkdown;
